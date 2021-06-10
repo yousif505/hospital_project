@@ -1,0 +1,13 @@
+Single Page: Website:
+    Sections :  Home
+                About
+                Skills
+                Work
+                Contact
+
+        Softwares : VS Code, Chrome
+        Languages:
+            Front End : HTML5, CSS3, JS
+            Plugins:
+                ICONS : BoxIcons
+                Animation on scroll : AnimateONScroll JS
